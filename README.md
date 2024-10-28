@@ -1,7 +1,3 @@
-# vr_playroom
-
-<img src="/images/video_sample.gif"/>
-
 ## Project Overview
 The VR Playroom is an immersive space designed to explore foundational VR concepts through hands-on experimentation with Unity. This project integrates locomotion, object interaction, and user interface elements to create a dynamic, engaging environment.
 
@@ -23,3 +19,5 @@ Attachable and interactive elements like hats can be easily placed on hooks or e
 ### User Interface and Feedback
 - **Custom Reticles:** Provides enhanced visual feedback for teleportation by customizing reticles to improve user orientation and destination clarity.
 - **Fade Canvas:** Added a fade-in/fade-out canvas effect during teleportation to reduce motion-induced dizziness, providing a more comfortable experience.
+
+<img src="/images/video_sample.gif"/>
